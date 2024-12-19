@@ -1,4 +1,3 @@
-#
 <html>
 
 <head>
@@ -12,7 +11,7 @@
         
  
  
-<center><img src="b5.jpeg" width="380px" height="380px"></p></center> 
+<center><img src="b5.jpeg" width="380px" height="380px"></center> 
 <h1 align="center">E N O U G H  T O U C H</h1>
 <hr widht="75%" size="2" color="yellow">
 <br>
